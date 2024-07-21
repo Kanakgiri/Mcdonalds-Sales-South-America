@@ -1,6 +1,6 @@
 # Mcdonald's Sales (South America)
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The main objective of this project is to analyze Sales Trends and Customer Satisfaction data to gain actionable insights that will enhance the performance of Mcdonald's Sales.
 
